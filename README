@@ -1,0 +1,30 @@
+Example run:
+
+# Input:
+model/model-0.relaxed.renum.pdb # Model PDB file (Model Ouput Stucture)
+xtal/4kmt.pdb # Crystal Structure (Correct Structure)
+json/4kmt.json # JSON file that defines all CDR Ranges
+
+# Command:
+./rmsd_ab.ama2.pl model/model-0.relaxed.renum.pdb xtal/4kmt.pdb json/4kmt.json
+
+# STD Output:
+All All RMS: 0.821
+FR FR RMS: 0.587
+FR Loops RMS: 1.494
+H H RMS: 0.873
+FRH FRH RMS: 0.329
+FRH LoopH RMS: 1.862
+FRH H1 RMS: 1.133
+FRH H2 RMS: 0.850
+FRH H3 RMS: 2.472
+L L RMS: 0.589
+FRL FRL RMS: 0.554
+FRL LoopL RMS: 0.813
+FRL L1 RMS: 0.773
+FRL L2 RMS: 0.918
+FRL L3 RMS: 0.804
+H L RMS: 0.950
+L H RMS: 1.213
+Can Can RMS: 0.777
+FR ALL RMS: 0.827
