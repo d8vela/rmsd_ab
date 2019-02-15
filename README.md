@@ -82,5 +82,3 @@ H3  HVL 3 of the heavy varaible domain
 Can  HVL with canonical structures
 FW   Should this be FR (Framework)?  Possible typo in the AMA2 article for Table II (Almagro, Proteins 2014)
 
-# ---------------------------------------------------------------
-
