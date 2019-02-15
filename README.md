@@ -62,6 +62,7 @@ H: V_H (Heavy variable domain)
 
 ## Terms taken from the AMA-2 Article (Almagro, Proteins 2014), except otherwise stated:
 
+```
 All  The Entire Fv domains (V_L + L_H)
 FR   Framework only for Fv [V_L + V_H] (do not include HVL)
 
@@ -83,4 +84,4 @@ H3  HVL 3 of the heavy varaible domain
 
 Can  HVL with canonical structures
 FW   Should this be FR (Framework)?  Possible typo in the AMA2 article for Table II (Almagro, Proteins 2014)
-
+```
