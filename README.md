@@ -14,9 +14,9 @@ Modify line 13 of the rmsd_ab.ama2.pl define the path of the local ProFit progra
 
 # Example Execution:
 
-## Example Input:
+## Example Input (All PDB files must be consistent in numbering using 1 to last residue for chains L and H):
 
-Model PDB file (Model Ouput Stucture)
+Model PDB file (Model Ouput Stucture):
 > model/model-0.relaxed.renum.pdb
 
 Crystal Structure (Correct Structure)
