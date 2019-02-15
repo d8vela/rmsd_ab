@@ -26,11 +26,11 @@ JSON file that defines all CDR Ranges
 > json/4kmt.json
 
 
-## Command:
+## Example Command:
 > ./rmsd_ab.ama2.pl model/model-0.relaxed.renum.pdb xtal/4kmt.pdb json/4kmt.json
 
 
-## STD Output:
+## STDOUT (using input and command above):
 ```
 All All RMS: 0.821
 FR FR RMS: 0.587
