@@ -12,9 +12,13 @@ Download and install: http://www.bioinf.org.uk/software/swreg.html
 Define path to ProFit executable (edit script appropriately if necessary):
 Modify line 13 of the rmsd_ab.ama2.pl define the path of the local ProFit program.
 
+# Notes
+
+All PDB files used as input must be consistent in numbering using 1 to last residue for chains L and H.
+
 # Example Execution:
 
-## Example Input (All PDB files must be consistent in numbering using 1 to last residue for chains L and H):
+## Example Input:
 
 Model PDB file (Model Ouput Stucture):
 > model/model-0.relaxed.renum.pdb
