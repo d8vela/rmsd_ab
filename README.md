@@ -23,7 +23,7 @@ json/4kmt.json # JSON file that defines all CDR Ranges
 > ./rmsd_ab.ama2.pl model/model-0.relaxed.renum.pdb xtal/4kmt.pdb json/4kmt.json
 
 ## STD Output:
-'''
+```
 All All RMS: 0.821
 FR FR RMS: 0.587
 FR Loops RMS: 1.494
@@ -43,7 +43,7 @@ H L RMS: 0.950
 L H RMS: 1.213
 Can Can RMS: 0.777
 FR ALL RMS: 0.827
-'''
+```
 
 
 # Definitions
