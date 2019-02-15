@@ -36,7 +36,7 @@ JSON file that defines all CDR Ranges
 
 ## STDOUT (using input and command above):
 ### Output description of each column: 
-- Column 1: Antibody parts used for superposition, 
+- Column 1: Antibody parts used for superposition
 - Column 2: Antibody parts used for RMSD calculation
 - Column 3: 'RMS:'
 - Column 4: Calculated RMSD Value
