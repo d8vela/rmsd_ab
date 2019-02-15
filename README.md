@@ -1,28 +1,28 @@
 
-# ---- Description ----
+# Description:
 
-# This script will calculate the mutliple RMSD values for a given antibody model vs reference (X-ray) structure.
+This script will calculate the mutliple RMSD values for a given antibody model vs reference (X-ray) structure.
 
-# Install JSON module from CPAN (for decoding JSON output from antibody.cc)
+Install JSON module from CPAN (for decoding JSON output from antibody.cc)
  > cpan install JSON
 
-# Install ProFit (for superpositioning and RMSD calculation)
-# Download and install: http://www.bioinf.org.uk/software/swreg.html
+Install ProFit (for superpositioning and RMSD calculation)
+Download and install: http://www.bioinf.org.uk/software/swreg.html
 
-# Customize script:
+Customize script:
 Modify line 13 of the rmsd_ab.ama2.pl define the path of the local ProFit program.
 
-# ---- Example run ----
+# Example run:
 
-# Example Input:
+## Example Input:
 model/model-0.relaxed.renum.pdb # Model PDB file (Model Ouput Stucture)
 xtal/4kmt.pdb # Crystal Structure (Correct Structure)
 json/4kmt.json # JSON file that defines all CDR Ranges
 
-# Command:
+## Command:
 > ./rmsd_ab.ama2.pl model/model-0.relaxed.renum.pdb xtal/4kmt.pdb json/4kmt.json
 
-# STD Output ():
+## STD Output ():
 All All RMS: 0.821
 FR FR RMS: 0.587
 FR Loops RMS: 1.494
