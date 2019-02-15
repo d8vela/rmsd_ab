@@ -22,7 +22,7 @@ json/4kmt.json # JSON file that defines all CDR Ranges
 ## Command:
 > ./rmsd_ab.ama2.pl model/model-0.relaxed.renum.pdb xtal/4kmt.pdb json/4kmt.json
 
-## STD Output ():
+## STD Output:
 All All RMS: 0.821
 FR FR RMS: 0.587
 FR Loops RMS: 1.494
@@ -44,9 +44,9 @@ Can Can RMS: 0.777
 FR ALL RMS: 0.827
 
 
-# ---------------------------------------------------------------
+# Definitions
 
-Terms taken from AMA-1 Article (Almagro, Proteins 2011)
+## Terms taken from AMA-1 Article (Almagro, Proteins 2011)
 
 FR: Framework Regions (The b-sheets and nonhypervariable loops serve as structural support to the antigen-binding site)
 HVL: Hypervariable loops (L1,L2,L3,H1,H2,H3)
@@ -58,9 +58,7 @@ Can: Loops with canonical structures
 L: V_L (Light variable domain)
 H: V_H (Heavy variable domain)
 
-# ---------------------------------------------------------------
-
-Terms taken from the AMA-2 Article (Almagro, Proteins 2014), except otherwise stated:
+## Terms taken from the AMA-2 Article (Almagro, Proteins 2014), except otherwise stated:
 
 All  The Entire Fv domains (V_L + L_H)
 FR   Framework only for Fv [V_L + V_H] (do not include HVL)
