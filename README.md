@@ -35,7 +35,8 @@ JSON file that defines all CDR Ranges
 
 
 ## STDOUT (using input and command above):
-### Header description: Superposition Range, RMSD Calculation Range, "RMS:", RMSD Value
+### Header description: 
+#### Antibody parts used for superposition, Antibody parts used for RMSD calculation, literally "RMS:", Calculated RMSD Value
 ```
 All All RMS: 0.821
 FR FR RMS: 0.587
