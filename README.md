@@ -12,7 +12,7 @@ Download and install: http://www.bioinf.org.uk/software/swreg.html
 Customize script:
 Modify line 13 of the rmsd_ab.ama2.pl define the path of the local ProFit program.
 
-# Example run:
+# Example Execution:
 
 ## Example Input:
 model/model-0.relaxed.renum.pdb # Model PDB file (Model Ouput Stucture)
