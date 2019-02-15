@@ -69,7 +69,7 @@ HVL: Hypervariable loops (L1,L2,L3,H1,H2,H3)
 
 All: whole FV; 
 LOOPS: all hyperveriable loops;
-Can: Loops with canonical structures (NOTE: Not exactly like AMA defintion.  All CDR loops except CDR H3)
+Can: Loops with canonical structures (NOTE: Not exactly like AMA defintion.  This considers all CDR loops, except CDR H3)
 L: V_L (Light variable domain)
 H: V_H (Heavy variable domain)
 ```
@@ -96,6 +96,6 @@ H1:  HVL 1 of the heavy variable domain
 H2:  HVL 2 of the heavy variable domain
 H3:  HVL 3 of the heavy varaible domain
 
-Can:  HVL with canonical structures (Note: Not exactly like AMA Defintion.  All CDR loops except CDR H3)
+Can:  HVL with canonical structures (Note: Not exactly like AMA Defintion.  This considers all CDR loops, except CDR H3)
 FW:   Should this be FR (Framework)?  Possible typo in the AMA2 article for Table II (Almagro, Proteins 2014)
 ```
