@@ -73,25 +73,25 @@ H: V_H (Heavy variable domain)
 ## Terms taken from the AMA-2 Article (Almagro, Proteins 2014), unless stated otherwise:
 
 ```
-All  The Entire Fv domains (V_L + L_H)
-FR   Framework only for Fv [V_L + V_H] (do not include HVL)
+All:  The Entire Fv domains (V_L + L_H)
+FR:   Framework only for Fv [V_L + V_H] (do not include HVL)
 
 
-L   Entire V_L domain (entire light variable domain)
-FRL  Framework for light variable domain (do not include HVL)
-LoopL  All HVL Loops of the light varible domain
-L1   HVL 1 of the light variable domain
-L2  HVL 2 of the light variable domain
-L3  HVL 3 of the light variable domain
+L:   Entire V_L domain (entire light variable domain)
+FRL:  Framework for light variable domain (do not include HVL)
+LoopL:  All HVL Loops of the light varible domain
+L1:   HVL 1 of the light variable domain
+L2:  HVL 2 of the light variable domain
+L3:  HVL 3 of the light variable domain
 
 
-H   V_H domain (entire heavy variable domain)
-FRH  Framework for heavy variable domain (do not include HVL)
-LoopH All HVL Loops of the heavy variable domain
-H1  HVL 1 of the heavy variable domain
-H2  HVL 2 of the heavy variable domain
-H3  HVL 3 of the heavy varaible domain
+H:   V_H domain (entire heavy variable domain)
+FRH:  Framework for heavy variable domain (do not include HVL)
+LoopH: All HVL Loops of the heavy variable domain
+H1:  HVL 1 of the heavy variable domain
+H2:  HVL 2 of the heavy variable domain
+H3:  HVL 3 of the heavy varaible domain
 
-Can  HVL with canonical structures
-FW   Should this be FR (Framework)?  Possible typo in the AMA2 article for Table II (Almagro, Proteins 2014)
+Can:  HVL with canonical structures
+FW:   Should this be FR (Framework)?  Possible typo in the AMA2 article for Table II (Almagro, Proteins 2014)
 ```
