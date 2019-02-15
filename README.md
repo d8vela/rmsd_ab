@@ -14,7 +14,7 @@ Modify line 13 of the rmsd_ab.ama2.pl define the path of the local ProFit progra
 
 # Notes
 
-All PDB files used as input must be consistent in numbering using 1 to last residue for chains L and H.
+All PDB files used as input must be consistent in numbering using 1 to the last residue for chains L and H.
 
 # Example Execution:
 
@@ -35,6 +35,7 @@ JSON file that defines all CDR Ranges
 
 
 ## STDOUT (using input and command above):
+# Header description: Superposition Range, RMSD Calculation Range, "RMS:", RMSD Value
 ```
 All All RMS: 0.821
 FR FR RMS: 0.587
@@ -60,7 +61,7 @@ FR ALL RMS: 0.827
 
 # Definitions
 
-## Terms taken from AMA-1 Article (Almagro, Proteins 2011, unless stated otherwise)
+## Terms taken from AMA-1 Article (Almagro, Proteins 2011), unless stated otherwise:
 
 ```
 FR: Framework Regions (The b-sheets and nonhypervariable loops serve as structural support to the antigen-binding site)
