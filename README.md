@@ -70,7 +70,7 @@ L: V_L (Light variable domain)
 H: V_H (Heavy variable domain)
 ```
 
-## Terms taken from the AMA-2 Article (Almagro, Proteins 2014), except otherwise stated:
+## Terms taken from the AMA-2 Article (Almagro, Proteins 2014), unless stated otherwise:
 
 ```
 All  The Entire Fv domains (V_L + L_H)
