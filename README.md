@@ -35,7 +35,7 @@ JSON file that defines all CDR Ranges
 
 
 ## STDOUT (using input and command above):
-# Header description: Superposition Range, RMSD Calculation Range, "RMS:", RMSD Value
+### Header description: Superposition Range, RMSD Calculation Range, "RMS:", RMSD Value
 ```
 All All RMS: 0.821
 FR FR RMS: 0.587
