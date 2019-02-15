@@ -9,7 +9,7 @@ Install JSON module from CPAN (for decoding JSON output from antibody.cc)
 Install ProFit (for superpositioning and RMSD calculation)
 Download and install: http://www.bioinf.org.uk/software/swreg.html
 
-Customize script:
+Define path to ProFit executable (edit script appropriately if necessary):
 Modify line 13 of the rmsd_ab.ama2.pl define the path of the local ProFit program.
 
 # Example Execution:
