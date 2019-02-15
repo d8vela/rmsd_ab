@@ -15,12 +15,20 @@ Modify line 13 of the rmsd_ab.ama2.pl define the path of the local ProFit progra
 # Example Execution:
 
 ## Example Input:
-model/model-0.relaxed.renum.pdb # Model PDB file (Model Ouput Stucture)
-xtal/4kmt.pdb # Crystal Structure (Correct Structure)
-json/4kmt.json # JSON file that defines all CDR Ranges
+
+Model PDB file (Model Ouput Stucture)
+> model/model-0.relaxed.renum.pdb
+
+Crystal Structure (Correct Structure)
+> xtal/4kmt.pdb
+
+JSON file that defines all CDR Ranges
+> json/4kmt.json
+
 
 ## Command:
 > ./rmsd_ab.ama2.pl model/model-0.relaxed.renum.pdb xtal/4kmt.pdb json/4kmt.json
+
 
 ## STD Output:
 ```
