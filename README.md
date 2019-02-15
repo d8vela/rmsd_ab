@@ -50,6 +50,7 @@ FR ALL RMS: 0.827
 
 ## Terms taken from AMA-1 Article (Almagro, Proteins 2011)
 
+```
 FR: Framework Regions (The b-sheets and nonhypervariable loops serve as structural support to the antigen-binding site)
 HVL: Hypervariable loops (L1,L2,L3,H1,H2,H3)
 
@@ -59,6 +60,7 @@ LOOPS: all hyperveriable loops;
 Can: Loops with canonical structures
 L: V_L (Light variable domain)
 H: V_H (Heavy variable domain)
+```
 
 ## Terms taken from the AMA-2 Article (Almagro, Proteins 2014), except otherwise stated:
 
